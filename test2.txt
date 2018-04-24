@@ -1,0 +1,14 @@
+ Le volume dans le lecteur D n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 0414-8841
+
+ R‚pertoire de D:\Tools_DEV\TestIntegrationContinu
+
+24/04/2018  21:37    <REP>          .
+24/04/2018  21:37    <REP>          ..
+24/04/2018  21:34               525 HelloWord.class
+24/04/2018  21:36               241 HelloWord.java
+24/04/2018  12:27               487 index.html
+24/04/2018  12:42               533 test.txt
+24/04/2018  21:37                 0 test2.txt
+               5 fichier(s)            1ÿ786 octets
+               2 R‚p(s)  97ÿ186ÿ942ÿ976 octets libres
